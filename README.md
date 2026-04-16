@@ -38,17 +38,45 @@ I build end-to-end AI solutions—from ideation to production—combining machin
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-003B57?style=flat&logo=postgresql&logoColor=white)
 
-### AI / ML
+---
+
+### AI / Machine Learning
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/-ScikitLearn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
-![LLMs](https://img.shields.io/badge/-LLMs-black?style=flat)
-![RAG](https://img.shields.io/badge/-RAG-grey?style=flat)
+![NLP](https://img.shields.io/badge/-NLP-5A5A5A?style=flat)
+![LLMs](https://img.shields.io/badge/-LLMs-000000?style=flat)
+![RAG](https://img.shields.io/badge/-RAG-6E6E6E?style=flat)
+![Agentic Workflows](https://img.shields.io/badge/-Agentic%20Workflows-4B0082?style=flat)
 
-### Tools & Platforms
-![LangChain](https://img.shields.io/badge/-LangChain-121212?style=flat)
+---
+
+### Data & Engineering
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![ETL](https://img.shields.io/badge/-ETL-8A2BE2?style=flat)
+![Vector DBs](https://img.shields.io/badge/-Vector%20DBs-2F4F4F?style=flat)
+
+---
+
+### Backend & APIs
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+---
+
+### LLM Tooling
+![LangChain](https://img.shields.io/badge/-LangChain-121212?style=flat)
+![LangSmith](https://img.shields.io/badge/-LangSmith-1C1C1C?style=flat)
+
+---
+
+### Cloud & Infrastructure
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![Databricks](https://img.shields.io/badge/-Databricks-FF3621?style=flat&logo=databricks&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+---
+
+### Tools
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 
 ---
 
