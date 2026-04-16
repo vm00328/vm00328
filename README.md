@@ -32,19 +32,23 @@ I build end-to-end AI solutions—from ideation to production—combining machin
 
 ---
 
-## 🧠 Tech Stack
+## 🛠 Tech Stack
 
-**Languages**  
-`Python` `SQL`
+### Languages
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-003B57?style=flat&logo=postgresql&logoColor=white)
 
-**AI / ML**  
-`PyTorch` `Scikit-learn` `NLP` `RAG` `LLMs` `Agentic Workflows` `Multi-Agent Systems`
+### AI / ML
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/-ScikitLearn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![LLMs](https://img.shields.io/badge/-LLMs-black?style=flat)
+![RAG](https://img.shields.io/badge/-RAG-grey?style=flat)
 
-**Data & Backend**  
-`Pandas` `ETL Pipelines` `FastAPI` `Databricks` `Vector DBs`
-
-**Infra & Tools**  
-`Docker` `Azure` `Git` `LangChain` `LangSmith`
+### Tools & Platforms
+![LangChain](https://img.shields.io/badge/-LangChain-121212?style=flat)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 
 ---
 
