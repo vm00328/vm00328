@@ -20,7 +20,7 @@ Data-driven system for automatically detecting line-breaking passes in football,
 
 `Python` &nbsp;`Unsupervised ML` &nbsp;`Spatiotemporal Data` &nbsp;`Sports Analytics`
 
-## 🛠 Tech Stack
+## Tech Stack
 
 ### Languages
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -53,7 +53,7 @@ Data-driven system for automatically detecting line-breaking passes in football,
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 
-## 🌱 What I'm Focused On
+## What I'm Focused On
 
 - Building **AI-native systems** that integrate seamlessly into business workflows  
 - Exploring **agentic architectures** and autonomous decision systems  
@@ -62,7 +62,7 @@ Data-driven system for automatically detecting line-breaking passes in football,
 
 ---
 
-## 🎓 Education
+## Education
 
 **University of Amsterdam, NL** — MSc Information Studies: Data Science
 
@@ -72,7 +72,7 @@ Data-driven system for automatically detecting line-breaking passes in football,
 
 ---
 
-## 🏆 Certifications & Achievements
+## Certifications & Achievements
 
 - Hackathon Winner — AFC Ajax
 - AI Engineer (Production Track)
@@ -82,6 +82,6 @@ Data-driven system for automatically detecting line-breaking passes in football,
 
 ---
 
-## 🌍 Languages
+## Languages
 
 English — Native &nbsp;|&nbsp; Bulgarian — Native &nbsp;|&nbsp; German — Professional
