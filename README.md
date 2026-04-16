@@ -8,6 +8,18 @@ Data Science and AI Engineering professional with a proven track record of deliv
 
 ---
 
+## Projects
+
+### [Multi-Agent RAG Orchestration System](https://github.com/vm00328/multi_agent_rag_orchestration_system)
+A simulated multi-agent Retrieval-Augmented Generation system demonstrating intelligent query routing, agent coordination, and response synthesis across multiple knowledge domains. Built to explore production-grade agentic architectures.
+
+`Python` &nbsp;`RAG` &nbsp;`LangChain` &nbsp;`Agentic Workflows` &nbsp;`Vector DBs`
+
+### [Line-Breaking Passes in Association Football](https://github.com/vm00328/Line-Breaking-Passes-in-Association-Football)
+Data-driven system for automatically detecting line-breaking passes in football, introducing a novel metric — the **Pass Advantage Score (PAS)** — to evaluate the true offensive impact of passes. Combines tracking and event data with unsupervised learning to dynamically model defensive formation lines. Developed during my time at AZ Alkmaar FC.
+
+`Python` &nbsp;`Unsupervised ML` &nbsp;`Spatiotemporal Data` &nbsp;`Sports Analytics`
+
 ## 🛠 Tech Stack
 
 ### Languages
@@ -21,7 +33,8 @@ Data Science and AI Engineering professional with a proven track record of deliv
 ![Scikit-learn](https://img.shields.io/badge/-ScikitLearn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/-HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
-![LLMs](https://img.shields.io/badge/-LLMs-000000?style=flat)
+![NLP](https://img.shields.io/badge/-NLP-5C4EE5?style=flat)
+![GenAI](https://img.shields.io/badge/-GenAI-00897B?style=flat)
 ![RAG](https://img.shields.io/badge/-RAG-6E6E6E?style=flat)
 ![Agentic Workflows](https://img.shields.io/badge/-Agentic%20Workflows-4B0082?style=flat)
 
@@ -33,7 +46,6 @@ Data Science and AI Engineering professional with a proven track record of deliv
 ### LLM & Application Layer
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![Uvicorn](https://img.shields.io/badge/-Uvicorn-499848?style=flat)
 ![LangChain](https://img.shields.io/badge/-LangChain-121212?style=flat)
 ![LangSmith](https://img.shields.io/badge/-LangSmith-1C1C1C?style=flat)
 
