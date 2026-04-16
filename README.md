@@ -36,14 +36,16 @@ I build end-to-end AI solutions—from ideation to production—combining machin
 
 ### Languages
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-003B57?style=flat&logo=postgresql&logoColor=white)
 ![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)
 
 ---
 
-### AI Systems
+### ML Engineering
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/-ScikitLearn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/-HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
 ![LLMs](https://img.shields.io/badge/-LLMs-000000?style=flat)
 ![RAG](https://img.shields.io/badge/-RAG-6E6E6E?style=flat)
@@ -51,14 +53,14 @@ I build end-to-end AI solutions—from ideation to production—combining machin
 
 ---
 
-### Data & Engineering
+### Data & Retrieval
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![ETL](https://img.shields.io/badge/-ETL-8A2BE2?style=flat)
 ![Vector DBs](https://img.shields.io/badge/-Vector%20DBs-2F4F4F?style=flat)
 
 ---
 
-### LLM Tooling, Backend & APIs
+### LLM & Application Layer
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
 ![Uvicorn](https://img.shields.io/badge/-Uvicorn-499848?style=flat)
