@@ -68,8 +68,9 @@ I build end-to-end AI solutions—from ideation to production—combining machin
 
 - 🥇 Hackathon Winner (AFC Ajax)  
 - 📜 Stanford — Statistical Learning with Python  
-- 📜 IBM Machine Learning Specialization  
-- ☁️ Microsoft Azure Fundamentals (AZ-900)  
+- 📜 IBM Machine Learning Specialization
+- 🤖 AI Engineer (Production Track)
+- ☁️ Microsoft Azure Fundamentals (AZ-900)
 
 ---
 
@@ -84,6 +85,6 @@ I build end-to-end AI solutions—from ideation to production—combining machin
 ## 📫 Get in Touch
 
 - ✉️ vmanolov2000@gmail.com  
-- 💼 LinkedIn: *(add link)*  
+- 💼 LinkedIn: *https://www.linkedin.com/in/vladislavmanolov/*  
 
 ---
