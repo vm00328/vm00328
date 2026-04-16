@@ -15,7 +15,7 @@ A simulated multi-agent Retrieval-Augmented Generation system demonstrating inte
 
 `Python` &nbsp;`RAG` &nbsp;`LangChain` &nbsp;`Agentic Workflows` &nbsp;`Vector DBs`
 
-### [Line-Breaking Passes in Association Football](https://github.com/vm00328/Line-Breaking-Passes-in-Association-Football)
+### [Master's Thesis: Automating the Detection of Line-Breaking Passes in Association Football](https://github.com/vm00328/Line-Breaking-Passes-in-Association-Football)
 Data-driven system for automatically detecting line-breaking passes in football, introducing a novel metric — the **Pass Advantage Score (PAS)** — to evaluate the true offensive impact of passes. Combines tracking and event data with unsupervised learning to dynamically model defensive formation lines. Developed during my time at AZ Alkmaar FC.
 
 `Python` &nbsp;`Unsupervised ML` &nbsp;`Spatiotemporal Data` &nbsp;`Sports Analytics`
